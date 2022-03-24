@@ -1,0 +1,5 @@
+name=input("Enter the name:")
+age=input("Enter the age:")
+basic_salary=float(input("Enter Basic Salary:"))
+total_salary=basic_salary+(basic_salary*5/100)
+print("Totalk Salary with 5% DA=",total_salary)
